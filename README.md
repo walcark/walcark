@@ -9,9 +9,14 @@ Toulouse, France · [kevin.walcarius@gmail.com](mailto:kevin.walcarius@gmail.com
 
 ---
 
-Researcher-turned-engineer at the intersection of physics, numerics, and software. Currently a post-doctoral researcher at **CNES**, developing atmospheric correction tools for satellite imagery within the MAJA operational chain. I spent my PhD at **ONERA** building a full Monte-Carlo photon simulation framework in C++ for 3D imaging systems, and have since worked on everything from precipitation nowcasting at **Météo France** to GPU-accelerated data pipelines.
+I am a postdoctoral researcher at [CNES](https://cnes.fr/), working on atmospheric correction methods for satellite imagery within the MAJA processing chain. My work focuses on modeling atmospheric scattering effects, in particular adjacency effects that induce spatial blurring in satellite observations. I completed my PhD at [ONERA](https://www.onera.fr/fr), where I developed a Monte Carlo photon transport simulator in C++ to model radiative transfer and quantify multiple scattering effects, including for 3D photon-counting sensors.
 
-I care about performance, reproducibility, and well-crafted scientific software.
+I work at the interface between atmospheric physics and software engineering, with an emphasis on scalable numerical methods, reproducible pipelines, and computational efficiency.
+
+Recent projects:
+
+- [PyMOPSMAP](https://github.com/walcark/pymopsmap): Python interface to MOPSMAP for computing aerosol optical properties before radiative transfer simulations.
+- [Adjeff](https://github.com/walcark/Adjeff): Python framework for radiative transfer simulation, training adjacency-effect correction models, and applying corrections to satellite imagery.
 
 ---
 
