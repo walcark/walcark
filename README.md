@@ -16,7 +16,7 @@ I work at the interface between atmospheric physics and software engineering, wi
 Recent projects:
 
 - [PyMOPSMAP](https://github.com/walcark/pymopsmap): Python interface to MOPSMAP for computing aerosol optical properties before radiative transfer simulations.
-- [Adjeff](https://github.com/walcark/Adjeff): Python framework for radiative transfer simulation, training adjacency-effect correction models, and applying corrections to satellite imagery.
+- [Adjeff](https://pypi.org/project/adjeff/): Python framework for radiative transfer simulation, training adjacency-effect correction models, and applying corrections to satellite imagery.
 
 ---
 
